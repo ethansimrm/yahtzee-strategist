@@ -5,7 +5,7 @@ Simplifications:  only allow discard and roll, only score against upper level
 
 # Used to increase the timeout, if necessary
 try:
-    import simplegui
+    import codeskulptor
 except ImportError:
     import SimpleGUICS2Pygame.codeskulptor as codeskulptor
 codeskulptor.set_timeout(20)
