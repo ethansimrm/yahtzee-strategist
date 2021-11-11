@@ -1,6 +1,6 @@
 # yahtzee-strategist
 
-This is a strategy planner for the first round of Yahtzee - a game where you have five dice and you need to hold some strategically - and reroll the others - to get the desired total. It uses a brute-force approach.
+This is my strategy planner for the first round of Yahtzee - a game where you have five dice and you need to hold some strategically - and reroll the others - to get the desired total. It uses a brute-force approach.
 
 You can play it at https://cardgames.io/yahtzee/, and see how this planner might help you (or probably confirm what you're already inclined to do).
 
